@@ -1,11 +1,16 @@
 _repo: Tropical-Fish-Handbook-Tenth-Edition-1953_62463
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 62463-h/images/cover.jpg
 creator:
   author:
     agent_name: Schott, Guenther-Lothar
     gutenberg_agent_id: '51953'
     url: http://www.gutenberg.org/2009/agents/51953
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62463#Tropical-Fish-Handbook-Tenth-Edition-1953
 gutenberg_issued: '2020-06-24'
 gutenberg_type: Text
 identifiers:
